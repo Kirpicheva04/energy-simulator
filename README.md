@@ -11,6 +11,7 @@
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ## Структура проекта
 - `models.py` — классы Consumer и Generator
