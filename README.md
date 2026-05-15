@@ -7,7 +7,6 @@
 - Python 3.14
 
 ## Установка и запуск
-
 ```bash
 pip install -r requirements.txt
 python main.py
